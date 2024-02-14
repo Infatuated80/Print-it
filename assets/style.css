@@ -206,7 +206,7 @@ img.arrow_right:hover {
 	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.8);
 }
 
-.dot_selected_test 
+.dot_selected
 {
 	margin-top:auto;
 	margin-bottom:auto;
@@ -218,11 +218,6 @@ img.arrow_right:hover {
 	border-radius: 100%;
 	box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
-
-.dot_selected {
-	background-color: #fff;
-}
-
 
 /* Fin du code CSS pour le carousel */
 #banner p 

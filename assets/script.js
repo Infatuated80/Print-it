@@ -27,10 +27,10 @@
 	const flecheDroite = document.querySelector(".arrow_right")
 	const urlImage = "./assets/images/slideshow/"
 	let dots = document.querySelector(".dots")
-	let banniere = document.getElementById("banniere");
+	let banniere = document.getElementById("banniere")
 	let paragrapheDynamique = document.querySelector("#paragrapheDynamique")
 	let codeDot = "<div class='dot'></div>"
-	let codeDotAllume = "<div class='dot_selected_test'></div>"
+	let codeDotAllume = "<div class='dot_selected'></div>"
 	let positionImage = 1;
 
 
